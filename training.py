@@ -1,6 +1,5 @@
 
-# Import OpenCV2 for image processing
-# Import os for file path
+# Importing Library
 import cv2, os
 
 # Import numpy for matrix calculation

@@ -1,1 +1,1 @@
-# Raspberry-Face-Recognition
+# Raspberry-Pi-Faccial-Recognition

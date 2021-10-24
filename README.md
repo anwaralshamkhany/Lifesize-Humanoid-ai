@@ -3,3 +3,5 @@ This is a lifesize humanoid based on the Inmoov 3D printed design. The link to t
 
 <img width="230" alt="Humanoid" src="https://user-images.githubusercontent.com/81518926/134824864-ed5c97a5-01f9-4b19-9bd2-da1c47918686.png">
 
+# Project Insight and future developments
+
